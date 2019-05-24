@@ -105,14 +105,3 @@ mysql> UNLOCK TABLES;
 Hemos finalizado la configuración, solo queda probar su funcionamiento y comprobar si, de forma correcta, se replican los datos introducidos en la máquina maestro.
 
 ![sql2](https://github.com/Adri-Sanchez/SWAP/blob/master/Pr%C3%A1ctica%205/Capturas/sql2.PNG)
-
-
-
-
-
-
-```bash
-a2enmod ssl
-service apache2 restart
-```
-![sslconf](https://github.com/Adri-Sanchez/SWAP/blob/master/Pr%C3%A1ctica%204/Capturas/sslconf.PNG)
